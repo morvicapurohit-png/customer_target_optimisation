@@ -1,10 +1,10 @@
-# 🎯 Customer Targeting Optimisation
+# Customer Targeting Optimisation
 
 Built a logistic regression model to identify profitable customers for a targeted marketing campaign, optimising ROI by mailing only to customers whose predicted response probability exceeds the break-even threshold.
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 
 A subscription-based business wants to acquire new customers through direct mail marketing. Blanket marketing (mailing everyone) is expensive and often unprofitable. The goal is to build a predictive model that identifies which customers are likely to subscribe, so marketing spend is focused only on profitable segments.
 
@@ -12,7 +12,7 @@ A subscription-based business wants to acquire new customers through direct mail
 
 ---
 
-## 🔍 Approach
+## Approach
 
 ### 1. Break-Even Analysis
 - Calculated the **break-even response rate** — the minimum subscription probability needed for a mailing to be profitable
@@ -38,7 +38,7 @@ A subscription-based business wants to acquire new customers through direct mail
 
 ---
 
-## 📊 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 | Concept | Application |
 |---------|-------------|
@@ -50,7 +50,7 @@ A subscription-based business wants to acquire new customers through direct mail
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** R
 - **Libraries:** dplyr, broom, ggplot2
@@ -59,7 +59,7 @@ A subscription-based business wants to acquire new customers through direct mail
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 customer-targeting-optimisation/
@@ -74,13 +74,13 @@ customer-targeting-optimisation/
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 This project demonstrates a core analytics consulting skill: **translating a predictive model into a financial decision framework**. Rather than just building a model and reporting accuracy, the analysis shows exactly how much money the business saves by switching from blanket to targeted marketing — the kind of insight that drives real business decisions.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Morvica Purohit** — MSc Business Analytics, UCL  
 [LinkedIn](https://www.linkedin.com/in/morvica-purohit/L) · [Email](mailto:morvicapurohit2000@gmail.com)
